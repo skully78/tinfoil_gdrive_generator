@@ -12,3 +12,4 @@ yarn.lock
 *.conf
 getFile.js
 *.py
+CNAME
