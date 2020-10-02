@@ -24,6 +24,12 @@ Here I will explain how to use this tool in a bit more detail.
 ## Interactive
 
 Just run `node index.js` and the rest will be gone through interactively.
+http-server ./shop
+node index.js -auto -source 1 14XaGXNZiazIpylPltOwJ0VklpdhtSryS -uploadDrive y -upload y
+node index.js -auto -source 1 1oNP72TyFHBVxKCYpewtbyGw2FeF0X4Ac -uploadDrive y -upload y
+
+xci: 1oNP72TyFHBVxKCYpewtbyGw2FeF0X4Ac
+
 
 ## Automated
 
